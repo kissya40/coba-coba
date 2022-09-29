@@ -1,2 +1,3 @@
 -sabun 
 -odol
+-sikat
