@@ -1,2 +1,6 @@
 -sabun 
 -odol
+-sikat
+-beras
+-minyak
+-sapu
